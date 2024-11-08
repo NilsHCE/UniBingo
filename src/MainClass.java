@@ -467,7 +467,7 @@ public class MainClass implements ActionListener {
 	private void checkBingo() {
 		if (checkBingoRunner()) {
 			// Change GUI to Winner Screen
-//			WinnerGUI();
+			//WinnerGUI();
 			System.out.println("Winner Winner Chicken Dinner");
 		} else {
 			return;
